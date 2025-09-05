@@ -93,5 +93,30 @@ Based on the findings from the dashboard, the following actions are suggested:
 
 - **Seasonal Campaigns:**  
   - Plan major campaigns around **year-end spikes (November–December)** to maximize sales.  
-  - Align inventory and logistics to handle seasonal demand effectively.  
+  - Align inventory and logistics to handle seasonal demand effectively.
+ 
+  ## 📚 Learning Outcomes  
+
+Through this project, I was able to strengthen my skills in the following areas:  
+
+- **Data Preparation & Cleaning**  
+  - Worked with raw retail sales data and structured it for analysis.  
+  - Ensured consistency in data formats, categories, and measures.  
+
+- **Data Visualization with Tableau**  
+  - Built interactive dashboards to track KPIs (Sales, Profit, Discount, Quantity).  
+  - Created story points to present insights in a business-friendly manner.  
+
+- **Analytical Thinking**  
+  - Identified regional and product-level performance gaps.  
+  - Connected data findings with potential business decisions.  
+
+- **Dashboard Design Principles**  
+  - Used effective layouts, charts, and filters for clarity.  
+  - Focused on storytelling to make dashboards actionable and insightful.  
+
+- **Business Understanding**  
+  - Gained experience in analyzing retail performance across multiple dimensions.  
+  - Learned how discounts, categories, and regions influence profitability.  
+
 
