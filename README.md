@@ -67,4 +67,31 @@ From the analysis of retail sales data, the following insights were identified:
   - **Technology (Phones & Copiers)** led in sales contribution.  
   - **Furniture (Chairs & Tables)** had stron
   
+## 💡 Recommendations  
+
+Based on the findings from the dashboard, the following actions are suggested:  
+
+- **Focus on East Region:**  
+  - Investigate reasons for underperformance (e.g., weak product mix, pricing strategy, or competition).  
+  - Launch targeted promotions to boost sales and engagement.  
+
+- **Maintain Central Region Strategy:**  
+  - Since the Central region achieved its targets, continue current sales strategies.  
+  - Explore upselling opportunities to further increase profitability.  
+
+- **Optimize Discounts:**  
+  - Discounts are driving sales but reducing profit margins, especially in Furniture.  
+  - Implement a **controlled discounting strategy** with better segmentation (e.g., only for bulk orders or seasonal sales).  
+
+- **Strengthen Profitable Categories:**  
+  - Increase focus on **Technology products** (Phones, Copiers) as they contribute the most to revenue.  
+  - Improve supply chain efficiency for top-selling items to avoid stockouts.  
+
+- **City-Level Strategy:**  
+  - Use **New York City** as a benchmark city for best practices.  
+  - Identify struggling cities and replicate strategies from high-performing ones.  
+
+- **Seasonal Campaigns:**  
+  - Plan major campaigns around **year-end spikes (November–December)** to maximize sales.  
+  - Align inventory and logistics to handle seasonal demand effectively.  
 
