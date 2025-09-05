@@ -20,3 +20,12 @@ The main objectives of this Tableau project are:
 ## 📊 Dashboard Preview 
 <img width="1906" height="869" alt="Dashboard" src="https://github.com/user-attachments/assets/43d72b7a-6efb-43a5-8db0-8edd10f54506" />
 *An interactive Tableau dashboard tracking Sales, Profit, Discount, and Quantity across regions, categories, and time.*  
+
+## 📖 Tableau Story Highlights
+Along with the main dashboard, a Tableau Story was created to present insights step by step for executives:  
+
+1. **Central Region Achieved Target** → Showcases how the Central region met its sales goal.  
+2. **NYC Was the Best Performer** → Highlights New York City as the strongest performer in terms of sales and profit.  
+3. **NYC Current Year Discussion** → Focuses on the recent year’s performance in NYC, identifying growth trends and opportunities.  
+
+> 📂 All story screenshots are available in the **/images/** folder.
