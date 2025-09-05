@@ -39,13 +39,32 @@ Along with the main dashboard, a Tableau Story was created to present insights s
 
 ## 📂 Dataset Information  
 
-The dataset used for this project contains **retail sales data** with details across:  
+- **Source:** Sample Superstore dataset (Excel format)  
+- **Raw Dataset:** `Excecutive_Retail_Analaycs_Raw.xlsx`  
+- **Tableau Workbook:** `Executive_Retail_Analaycs.twbx`  
+- **Images:** Visualization screenshots stored in the `/Image` folder
 
-- **Time Dimension** → Order Date, Ship Date, Year, Month  
-- **Geography Dimension** → Region, State, City  
-- **Product Dimension** → Category, Sub-Category, Product Name  
-- **Sales Metrics** → Sales, Profit, Discount, Quantity, Target  
+## 📈 Key Insights & Findings  
 
-📌 The dataset was pre-processed in Excel to remove duplicates, standardize fields, and ensure correct data types before importing into Tableau.  
+From the analysis of retail sales data, the following insights were identified:  
 
-*(Note: The dataset is included in the repository under the `/Data` folder for reference.)*  
+- **Overall KPIs**  
+  - Total YTD Sales: **$1.33M**  
+  - Total YTD Profit: **$175K**  
+  - Average Discount: **15.5%**  
+  - Total Quantity Sold: **22K**  
+
+- **Regional Performance**  
+  - The **East Region** showed the largest shortfall against sales goals.  
+  - The **Central Region** achieved its sales target successfully.  
+  - The **West Region** performed consistently but slightly below target.  
+
+- **City-Level Insights**  
+  - **New York City (NYC)** emerged as the **top-performing city**, both in sales and profit.  
+  - Certain cities showed declining trends, needing focused improvement.  
+
+- **Category & Sub-Category**  
+  - **Technology (Phones & Copiers)** led in sales contribution.  
+  - **Furniture (Chairs & Tables)** had stron
+  
+
