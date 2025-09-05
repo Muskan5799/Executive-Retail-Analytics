@@ -17,3 +17,6 @@ The main objectives of this Tableau project are:
 - **Trend Analysis** → Explore monthly and yearly sales trends to spot seasonal patterns.  
 - **Executive-Level Reporting** → Provide decision-makers with a clean, interactive, and insightful dashboard.  
 
+## 📊 Dashboard Preview 
+<img width="1906" height="869" alt="Dashboard" src="https://github.com/user-attachments/assets/43d72b7a-6efb-43a5-8db0-8edd10f54506" />
+*An interactive Tableau dashboard tracking Sales, Profit, Discount, and Quantity across regions, categories, and time.*  
