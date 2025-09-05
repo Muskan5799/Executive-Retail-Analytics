@@ -29,3 +29,23 @@ Along with the main dashboard, a Tableau Story was created to present insights s
 3. **NYC Current Year Discussion** → Focuses on the recent year’s performance in NYC, identifying growth trends and opportunities.  
 
 > 📂 All story screenshots are available in the **/images/** folder.
+
+## 🛠 Tools & Technologies  
+
+- **Tableau** → For building the interactive dashboard and storytelling.  
+- **Microsoft Excel** → Used for initial data cleaning and preparation.  
+- **Data Visualization** → Creating charts, KPIs, and storytelling for executive reporting.  
+- **Data Analytics** → Applied analytical skills to extract insights and monitor performance.  
+
+## 📂 Dataset Information  
+
+The dataset used for this project contains **retail sales data** with details across:  
+
+- **Time Dimension** → Order Date, Ship Date, Year, Month  
+- **Geography Dimension** → Region, State, City  
+- **Product Dimension** → Category, Sub-Category, Product Name  
+- **Sales Metrics** → Sales, Profit, Discount, Quantity, Target  
+
+📌 The dataset was pre-processed in Excel to remove duplicates, standardize fields, and ensure correct data types before importing into Tableau.  
+
+*(Note: The dataset is included in the repository under the `/Data` folder for reference.)*  
